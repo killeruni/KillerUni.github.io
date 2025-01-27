@@ -6,8 +6,10 @@ title: "Combat Robotics"
 date: 2014
 published: true
 labels:
-  - Lisp
-  - GitHub
+  - 3D Modeling
+  - Soldering
+  - Machining
+  - Project Management
 summary: "Robots designed for destruction"
 ---
 
